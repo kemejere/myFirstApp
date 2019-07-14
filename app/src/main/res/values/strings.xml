@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC Phase 1</string>
+    <string name="open_activity_2">Open Activity 2</string>
+    <string name="open_activity_3">Open Activity 3</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0!</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="me">me</string>
+    <string name="maxwell_kanoru">Maxwell Kanoru</string>
+    <string name="track_android">Track : Android</string>
+    <string name="country_kenya">Country: Kenya</string>
+    <string name="email_kanorumax_gmail_com">Email: kanorumax@gmail.com</string>
+    <string name="phone_number_0704780931">Phone Number: 0704780931</string>
+    <string name="slack_username_kemejere">Slack Username: @kemejere</string>
+</resources>
